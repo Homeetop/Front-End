@@ -1,0 +1,753 @@
+﻿[
+    {
+        "id": 1,
+        "description": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates. [from 9th c.]",
+        "engtrans": "/ˈa-pəl/",
+        "hausa_name": "aful",
+        "igbo_name": "apụl",
+        "name": "Apple",
+        "yoruba_name": "apu"
+    },
+    {
+        "id": 2,
+        "description": "A plant of the species Citrullus lanatus, bearing a melon-like fruit.",
+        "engtrans": "/-ˌme-lən/",
+        "hausa_name": "guna",
+        "igbo_name": "anyụ",
+        "name": "Watermelon",
+        "yoruba_name": "Elegede"
+    },
+    {
+        "id": 3,
+        "description": "An evergreen tree of the genus Citrus such as Citrus sinensis.\r\nThe fruit of an orange tree; a citrus fruit with a slightly sour flavour.\r\nThe colour of a ripe fruit of an orange tree, midway between red and yellow.",
+        "engtrans": "/ˈɔɹndʒ/",
+        "hausa_name": "lemu",
+        "igbo_name": "oroma, epe",
+        "name": "Orange",
+        "yoruba_name": "Ọsan"
+    },
+    {
+        "id": 4,
+        "description": "An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.\r\n(also pear tree) A type of fruit tree (Pyrus communis).\r\nThe wood of the pear tree.\r\nchoke pear (a torture device)",
+        "engtrans": "/pɛə/",
+        "hausa_name": "kasa",
+        "igbo_name": "ube",
+        "name": "Pear",
+        "yoruba_name": "eso pia"
+    },
+    {
+        "id": 5,
+        "description": "The sweet, usually red, edible fruit of certain plants of the genus Fragaria.\r\nAny plant of the genus Fragaria (that bears such fruit).\r\nA dark pinkish red colour, like that of the fruit; strawberry red.\r\n(rare) Something resembling a strawberry, especially a reddish bruise or birthmark.",
+        "engtrans": "/ˈstɹɔːb(ə)ɹi/",
+        "hausa_name": "-",
+        "igbo_name": "strọberị",
+        "name": "Strawberry",
+        "yoruba_name": "iru eso didun kan"
+    },
+    {
+        "id": 6,
+        "description": "a berry, typically green (classified as white), purple, red, or black, growing in clusters on a grapevine, eaten as fruit, and used in making wine",
+        "engtrans": "ɡreɪp",
+        "hausa_name": "innabi\r\n\r\n",
+        "igbo_name": "mkpụrụ vaịn",
+        "name": "Grape",
+        "yoruba_name": "eso ajara"
+    },
+    {
+        "id": 7,
+        "description": "any of several trees producing edible oval fruit having a smooth skin and a single hard stone",
+        "engtrans": "/plʌm/",
+        "hausa_name": "plum",
+        "igbo_name": "plọm",
+        "name": "Plum",
+        "yoruba_name": "eso pulọmu"
+    },
+    {
+        "id": 8,
+        "description": "large evergreen tropical tree cultivated for its large oval fruit",
+        "engtrans": "/mæŋɡəʊ/",
+        "hausa_name": "mangoro",
+        "igbo_name": "mango",
+        "name": "Mango",
+        "yoruba_name": "mango"
+    },
+    {
+        "id": 9,
+        "description": "sweet edible dark-blue berries of either low-growing or high-growing blueberry plants",
+        "engtrans": "/bluːberɪ/",
+        "hausa_name": " -",
+        "name": "Blueberry"
+    },
+    {
+        "id": 10,
+        "description": "tropical American shrub or small tree having huge deeply palmately cleft leaves and large oblong yellow",
+        "engtrans": "/pəˈpaɪə/",
+        "hausa_name": "gwanda",
+        "name": "Papaya",
+        "yoruba_name": "papaya"
+    },
+    {
+        "id": 11,
+        "description": "Asian tree having clusters of usually white blossoms and edible fruit resembling the peach;\r\ndowny yellow to rosy-colored fruit resembling a small peach",
+        "engtrans": "/eɪprɪkɒt/",
+        "hausa_name": " -",
+        "igbo_name": "aprịkọt",
+        "name": "Apricot"
+    },
+    {
+        "id": 12,
+        "description": "shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern Asia",
+        "engtrans": "/mændərɪn/",
+        "hausa_name": " -",
+        "igbo_name": "mandarin",
+        "name": "Mandarin",
+        "yoruba_name": "Mandarin"
+    },
+    {
+        "id": 13,
+        "description": "elongated crescent-shaped yellow fruit with soft sweet flesh",
+        "engtrans": "/bəˈnɑːnə/",
+        "hausa_name": "ayaba",
+        "igbo_name": "unine",
+        "name": "Banana",
+        "yoruba_name": "ọgẹdẹ"
+    },
+    {
+        "id": 14,
+        "description": "citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp",
+        "engtrans": "/ɡreɪpfruːt/",
+        "hausa_name": "garehul",
+        "igbo_name": "mkpụrụ osisi grepu",
+        "name": "Grapefruit",
+        "yoruba_name": "eso girepufurutu"
+    },
+    {
+        "id": 15,
+        "description": "yellow oval fruit with juicy acidic flesh",
+        "engtrans": "/lemən/",
+        "hausa_name": "lemo",
+        "igbo_name": "oroma nkịrịsị",
+        "name": "Lemon",
+        "yoruba_name": "orombo-wẹwẹ"
+    },
+    {
+        "id": 16,
+        "description": " the green acidic fruit of any of various lime trees",
+        "engtrans": "/laɪm/",
+        "hausa_name": "lemun tsami",
+        "igbo_name": "oroma nkịrịsị",
+        "name": "Lime",
+        "yoruba_name": "orombo-wẹwẹ"
+    },
+    {
+        "id": 17,
+        "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+        "engtrans": "[ pahy-nap-uhl ]",
+        "hausa_name": "aburba",
+        "igbo_name": "ọkwụrụ bekee",
+        "name": "Pineapple",
+        "yoruba_name": "ope oyinbo"
+    },
+    {
+        "id": 18,
+        "description": "a large, tropical, milky-juiced tree, Artocarpus heterophyllus, of the mulberry family, having stiff and glossy green leaves, cultivated for its very large, edible fruit and seeds. \r\nthe fruit of this tree, which may weigh up to 70 pounds (32 kilograms).",
+        "engtrans": "[ jak-froot ]",
+        "hausa_name": "Karin",
+        "igbo_name": "nri ọka",
+        "name": "Jackfruit",
+        "yoruba_name": "gbere"
+    },
+    {
+        "id": 19,
+        "description": "the fruit of any of various plants of the gourd family, as the muskmelon or watermelon.",
+        "engtrans": "[ mel-uhn ]",
+        "hausa_name": "funa, kankana",
+        "igbo_name": "egwusi",
+        "name": "Melon",
+        "yoruba_name": "elegede"
+    },
+    {
+        "id": 20,
+        "description": "the large, hard-shelled seed of the coconut palm, lined with a white edible meat, and containing a milky liquid.",
+        "engtrans": "\r\n[ koh-kuh-nuht ]",
+        "hausa_name": "kwakwa",
+        "igbo_name": "aki oyibo",
+        "name": "Coconut",
+        "yoruba_name": "agbon"
+    },
+    {
+        "id": 21,
+        "description": "Also called alligator pear. a large, usually pear-shaped fruit having green to blackish skin, a single large seed, and soft, light-green pulp, borne by the tropical American tree Persea americana and its variety P. adrymifolia, often eaten raw, especially in salads.",
+        "engtrans": "\r\n[ av-uh-kah-doh, ah-vuh- ]",
+        "hausa_name": "kasa",
+        "igbo_name": "ube oyibo",
+        "name": "Avocado",
+        "yoruba_name": "eso piha"
+    },
+    {
+        "id": 22,
+        "description": "the subacid, juicy, drupaceous fruit of a tree, Prunus persica, of the rose family.",
+        "engtrans": "[ peech ]",
+        "hausa_name": "-",
+        "igbo_name": "piich",
+        "name": "Peach",
+        "yoruba_name": "eso pishi"
+    },
+    {
+        "id": 23,
+        "description": "Also called Chinese gooseberry. the egg-sized, edible berry of the Chinese gooseberry, having fuzzy brownish skin and slightly tart green flesh.",
+        "engtrans": "\r\n[ kee-wee ]",
+        "hausa_name": "sad",
+        "igbo_name": "kiwi mkpụrụ",
+        "name": "Kiwi",
+        "yoruba_name": "eso kiwi"
+    },
+    {
+        "id": 24,
+        "description": "the small, round, blackish, edible fruit of a widely cultivated shrub, Ribes nigrum, of the saxifrage family.",
+        "engtrans": "/ (ˌblækˈkʌrənt) /",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Blackcurrant",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 25,
+        "description": "the fruit, black or very dark purple when ripe, of certain species of the genus Rubus.",
+        "engtrans": "\r\n[ blak-ber-ee, -buh-ree ]",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Blackberry",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 26,
+        "description": "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.",
+        "engtrans": "[ cher-ee ]",
+        "hausa_name": "ceri",
+        "igbo_name": "cherị",
+        "name": "Cherry",
+        "yoruba_name": "agbalumo"
+    },
+    {
+        "id": 27,
+        "description": "any tree or shrub belonging to the genus Ficus, of the mulberry family, especially a small tree, F. carica, native to southwestern Asia, bearing a turbinate or pear-shaped fruit that is eaten fresh, preserved, or dried.",
+        "engtrans": "[ fig ]",
+        "hausa_name": "dan baure",
+        "igbo_name": "fig",
+        "name": "Fig",
+        "yoruba_name": "eeya"
+    },
+    {
+        "id": 28,
+        "description": "a small rounded fruit with sweet white scented flesh, a large central stone, and a thin rough skin.",
+        "engtrans": "/ˈlʌɪtʃiː,ˈlɪtʃiː/",
+        "hausa_name": "lychee",
+        "igbo_name": "leechee",
+        "name": "Lychee",
+        "yoruba_name": "longan"
+    },
+    {
+        "id": 29,
+        "description": "smooth-skinned peach of the family Rosaceae. A genetic variant of common peaches",
+        "engtrans": "/nek·tuh·reen/",
+        "hausa_name": "nectarine",
+        "igbo_name": "nectarine",
+        "name": "Nectarine",
+        "yoruba_name": "nektarin"
+    },
+    {
+        "id": 30,
+        "description": "Passiflora edulis, commonly known as passion fruit, is a vine species of passion flower It is rich in antioxidants.",
+        "engtrans": "/ˈpæʃn fruːt/",
+        "hausa_name": "sha'awar 'ya'yan itace",
+        "igbo_name": "ahuhu nkpuru",
+        "name": "Passionfruit",
+        "yoruba_name": "eso ife gidigidi"
+    },
+    {
+        "id": 31,
+        "description": "edible fruit of a multitude of plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus.",
+        "engtrans": "/raaz·buh·ree/",
+        "hausa_name": "rasberi",
+        "igbo_name": "raspberị",
+        "name": "Raspberry",
+        "yoruba_name": "rasipibẹri"
+    },
+    {
+        "id": 32,
+        "description": "a type of orange, consisting of hybrids of mandarin orange varieties, with some pomelo contribution.",
+        "engtrans": "/tanjəˈrēn/",
+        "hausa_name": "tangerines",
+        "igbo_name": "tanjerịn",
+        "name": "Tangerine",
+        "yoruba_name": "ọsan oyinbo, tanjarin"
+    },
+    {
+        "id": 33,
+        "description": "a fruit-bearing deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m tall.",
+        "engtrans": "ˈpäm(ə)ˌɡranət",
+        "hausa_name": "rumman",
+        "igbo_name": "pọmigranet",
+        "name": "Pomegranate "
+    },
+    {
+        "id": 34,
+        "description": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10–20 m tall.",
+        "engtrans": "ˈməlˌberē",
+        "hausa_name": "mulberry",
+        "igbo_name": "mulberry",
+        "name": "Mulberry",
+        "yoruba_name": "mulberry"
+    },
+    {
+        "id": 35,
+        "description": "a common tropical fruit amazingly rich in antioxidants, vitamin C, potassium, fiber and incredibly delicious.",
+        "engtrans": "ˈɡwävə",
+        "hausa_name": "gaba",
+        "igbo_name": "guava",
+        "name": "Guava",
+        "yoruba_name": "guava"
+    },
+    {
+        "id": 36,
+        "description": "Similar in taste to a sweet grapefruit, the pomelo is commonly consumed and used for festive occasions throughout Southeast Asia. Like the grapefruit, the pomelo has the potential for drug interactions.",
+        "engtrans": "/ˈpɒməloʊ/",
+        "hausa_name": "pomelo",
+        "igbo_name": "pomelo",
+        "name": "Pomelo",
+        "yoruba_name": "pomelo"
+    },
+    {
+        "id": 37,
+        "description": "a group of evergreen dwarf shrubs or trailing vines in the subgenus Oxycoccus of the genus Vaccinium.",
+        "engtrans": "ˈkranˌberē",
+        "hausa_name": "cranberry",
+        "igbo_name": "kranberị",
+        "name": "Cranberry",
+        "yoruba_name": "cranberi"
+    },
+    {
+        "id": 38,
+        "description": "the reddish edible fruit of an arborescent shrub (Cyphomandra betacea) of the nightshade family. that is native to South America but is grown commercially elsewhere; also : the shrub itself",
+        "engtrans": "\\ˌta-mə-ˈri-(ˌ)lō\\",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Tamarillo",
+        "yoruba_name": "Obi Edun"
+    },
+    {
+        "id": 39,
+        "description": "Passiflora tarminiana (or banana passionfruit) is a species of passionfruit. The yellow fruits are edible and their resemblance to small, straight bananas has given it the name banana passionfruit in some countries. It is native to the uplands of tropical South America and is now cultivated in many countries. ",
+        "engtrans": "\\ku-ru-ba\\",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Curuba",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 40,
+        "description": ": a small tropical American tree (Annona muricata) of the custard-apple family that has spicy odoriferous leaves; also : its large edible fruit that has fleshy spines and a slightly acid fibrous pulp",
+        "engtrans": "\\ˈsau̇(-ə)r-ˌsäp\\",
+        "hausa_name": "Tuwon biri ",
+        "igbo_name": "Sawansop",
+        "name": "Soursop",
+        "yoruba_name": " Ebo"
+    },
+    {
+        "id": 41,
+        "description": "Physalis peruviana, is a South American plant native to Peru, Ecuador and Colombia in the nightshade family (Solanaceae), commonly known as Cape gooseberry or goldenberry, known in their countries of origin as uchuva",
+        "engtrans": "\\u-ku-va\\",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Uchuva",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 42,
+        "description": "The cantaloupe, rockmelon, sweet melon, or spanspek is a melon that is a variety of the muskmelon species from the family Cucurbitaceae",
+        "engtrans": "\\ˈme-lən ˈkan-tə-ˌlōp also -ˌüp\\",
+        "hausa_name": "kankana",
+        "igbo_name": "Anyụ edo",
+        "name": "Melon Cantaloupe"
+    },
+    {
+        "id": 43,
+        "description": "any of various usually egg-shaped to football-shaped passion fruits (especially of Passiflora quadrangularis and P. edulis) that have juicy aromatic pulp",
+        "engtrans": "\\ˌgran-ə-ˈdi-lə, -ˈdē-(y)ə\\",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Granadilla",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 44,
+        "description": "a large oval tasty but foul-smelling fruit with a prickly rind",
+        "engtrans": "\\ˈdu̇r-ē-ən, -ē-ˌän also ˈdyu̇r-\\",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Durian",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 45,
+        "description": "A pitaya or pitahaya is the fruit of several different cactus species indigenous to the Americas. Pitaya usually refers to fruit of the genus Stenocereus, while pitahaya or dragon fruit refers to fruit of the genus Selenicereus, both in the family Cactaceae",
+        "engtrans": "/ˈdra-gən ˈfrüt/",
+        "hausa_name": "ʼYár̃ ítàacée dodon",
+        "igbo_name": "dragọn",
+        "name": "Dragon Fruit",
+        "yoruba_name": "eso dragoni"
+    },
+    {
+        "id": 46,
+        "description": "a pulpy fruit related to the lychee and produced by a southeast Asian evergreen tree (Euphoria longan syn. Dimocarpus longan) of the soapberry family",
+        "engtrans": "/ˈlȯŋ-gən, -ən/",
+        "hausa_name": "dogon",
+        "igbo_name": "ogologo",
+        "name": "Longan",
+        "yoruba_name": "oda"
+    },
+    {
+        "id": 47,
+        "description": "a bright red spiny Malayan fruit closely related to the lychee; also : a tree (Nephelium lappaceum) of the soapberry family that bears this fruit",
+        "engtrans": "/ram-ˈbü-tən/",
+        "hausa_name": "-",
+        "igbo_name": "-",
+        "name": "Rambutan",
+        "yoruba_name": "-"
+    },
+    {
+        "id": 48,
+        "description": "crisp, yellow, 1-2\" long fruit with the smell and taste of rose water. The rose apple is occasionally cultivated in the tropics but is rarely available in markets.",
+        "engtrans": "/ˈrōza'a-pel/",
+        "hausa_name": "-",
+        "igbo_name": "apụl rose",
+        "name": "Rose Apple",
+        "yoruba_name": "apu olododo"
+    },
+    {
+        "id": 49,
+        "description": "They are round and approximately 2or4 inches. it's skin is smooth and leathery",
+        "engtrans": "/ˈstär-pəl/",
+        "hausa_name": "\r\n- ya tashi aful",
+        "igbo_name": "Udara",
+        "name": "Star Apple",
+        "yoruba_name": "Agbalumo"
+    },
+    {
+        "id": 50,
+        "hausa_name": "Yalon aful"
+    },
+    {
+        "id": 51,
+        "description": "it's a bean like pod filled with seed, has a harsh taste and surcy smell",
+        "engtrans": "\\ˈta-mə-rənd, -ˌrind\\",
+        "hausa_name": "Tsamarind",
+        "igbo_name": "Oloma",
+        "name": "Tamarind",
+        "yoruba_name": "Awin"
+    },
+    {
+        "id": 52,
+        "description": "it's a berry like fruit,that grow on a variety of tress with little sieze",
+        "engtrans": "/pəʳˈsɪmən/",
+        "hausa_name": "kwanan",
+        "igbo_name": "icheku",
+        "name": "perismon"
+    },
+    {
+        "id": 53,
+        "description": "The persimmon is the edible fruit of a number of species of trees in the genus Diospyros. The most widely cultivated of these is the Oriental persimmon, Diospyros kaki. Diospyros is in the family Ebenaceae, and a number of non-persimmon species of the genus are grown for ebony timber.",
+        "engtrans": "mag-ge-stēn",
+        "hausa_name": "cikin harsuna",
+        "igbo_name": "mangolo",
+        "name": "Mangosteen"
+    },
+    {
+        "id": 54,
+        "description": "Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, from a ssnskirt",
+        "engtrans": "/ˈæm.lə/",
+        "hausa_name": "Glosbe",
+        "igbo_name": "ala",
+        "name": "Amla",
+        "yoruba_name": "ãmla"
+    },
+    {
+        "id": 55,
+        "description": "Cucumbers are popular long, lean, and green garden vegetables. they are fruits from thesame family of water melon",
+        "engtrans": "\\ˈkyü-(ˌ)kəm-bər\\",
+        "hausa_name": "kokwamba",
+        "igbo_name": "kukumba",
+        "name": "Cucumber",
+        "yoruba_name": "kukumba"
+    },
+    {
+        "id": 56,
+        "description": "The brown onion or yellow onion is a variety of dry onion with a strong flavour. They have a greenish-white, light yellow, or white",
+        "engtrans": "/ʌnjən/",
+        "hausa_name": "rawaya albass",
+        "igbo_name": "ayim",
+        "name": "Yellow Onion",
+        "yoruba_name": "alubosa"
+    },
+    {
+        "id": 57,
+        "description": "A dry onion that has purplish red skins and white flesh that is tinged with red. they are medium to large",
+        "hausa_name": "ja albasa",
+        "igbo_name": "ayim",
+        "name": "Red Onion",
+        "yoruba_name": "alubosa"
+    },
+    {
+        "id": 58,
+        "description": "Garlic (Allium sativa ), is a plant with long, flat grasslike leaves and a papery hood around the flowers.",
+        "engtrans": "\\ˈgär-lik\\",
+        "hausa_name": "Tafarnuwa",
+        "igbo_name": "galiki",
+        "name": "Garlic",
+        "yoruba_name": "ata ile"
+    },
+    {
+        "id": 59,
+        "description": "is an edible, biennial herb in the family Apiaceae grown for its edible root. it produce a Rossetti leave of 7-132 leaves",
+        "engtrans": "\\ˈker-ət, ˈka-rət\\",
+        "hausa_name": "karas",
+        "igbo_name": "karot",
+        "name": "Carrot",
+        "yoruba_name": "karooti"
+    },
+    {
+        "id": 60,
+        "description": "White cabbages (also called Dutch cabbages as they come from Holland) are actually a type of green cabbage which can have very pale-colored leaves. The sun usually turns the outer leaves pale green leaving white, tightly packed leaves in the center.",
+        "engtrans": "/waɪt kæbɪ+C61:C71dʒ/",
+        "hausa_name": "farin kabeji",
+        "igbo_name": "kabeeji ọcha",
+        "name": "Cabbage",
+        "yoruba_name": "kabeeji funfun"
+    },
+    {
+        "id": 61,
+        "description": "The radish is an edible root vegetable of the family Brassicaceae that was domesticated in Asia prior to Roman times. Radishes are grown and consumed throughout the world, being mostly eaten raw as a crunchy salad vegetable with a pungent flavor.",
+        "engtrans": "/ˈrædɪʃ/",
+        "hausa_name": "radish",
+        "igbo_name": "radish",
+        "name": "Radish",
+        "yoruba_name": "Rádíìṣì"
+    },
+    {
+        "id": 62,
+        "description": "Eggplant, aubergine or brinjal is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. ",
+        "engtrans": "/egplɑːnt/",
+        "hausa_name": "Gauta",
+        "igbo_name": "Afa, Afufa, Anara",
+        "name": "Eggplant",
+        "yoruba_name": "Igba"
+    },
+    {
+        "id": 63,
+        "description": "A mushroom or toadstool is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground, on soil, or on its food source.",
+        "engtrans": "/mʌʃruːm/",
+        "hausa_name": "Naman kaza",
+        "igbo_name": "ero",
+        "name": "Mushroom",
+        "yoruba_name": "Olu"
+    },
+    {
+        "id": 64,
+        "description": "is a variety of a species of thistle cultivated as a food. The edible portion of the plant consists of the flower buds before the flowers come into bloom. ",
+        "engtrans": "/ɑːʳtɪtʃoʊk/",
+        "hausa_name": "Artichoke",
+        "igbo_name": "atịchok",
+        "name": "Artichoke",
+        "yoruba_name": "Atishoki"
+    },
+    {
+        "id": 65,
+        "description": "Is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that yield kernels or seeds, which are fruits.",
+        "engtrans": "/kɔːʳn/",
+        "hausa_name": "Masara",
+        "igbo_name": "Ọka",
+        "name": "Corn",
+        "yoruba_name": "agbado"
+    },
+    {
+        "id": 66,
+        "description": "Broccoli is an edible green plant in the cabbage family whose large flowering head, stalk and small associated leaves are eaten as a vegetable. Broccoli is classified in the Italica cultivar group of the species Brassica oleracea.",
+        "engtrans": "/brɒkəli/",
+        "hausa_name": "Brokoli.",
+        "igbo_name": "Brọkọlị",
+        "name": "Broccoli",
+        "yoruba_name": "ẹfọ"
+    },
+    {
+        "id": 67,
+        "description": "Cauliflower is one of several vegetables in the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae family. It is an annual plant that reproduces by seed. Typically, only the head is eaten – the edible white flesh sometimes called \"curd\".",
+        "engtrans": "/kɒliflaʊəʳ/",
+        "hausa_name": "Farin kabeji",
+        "igbo_name": "Kọlịflawa",
+        "name": "Cauliflower",
+        "yoruba_name": "ori ododo irugbin bi ẹfọ"
+    },
+    {
+        "id": 68,
+        "description": "Celery is a marshland plant in the family Apiaceae that has been cultivated as a vegetable since antiquity. Celery has a long fibrous stalk tapering into leaves. Depending on location and cultivar, either its stalks, leaves or hypocotyl are eaten and used in cooking.",
+        "engtrans": "/seləri/",
+        "hausa_name": "seleri",
+        "igbo_name": "celery",
+        "name": "Celery",
+        "yoruba_name": "Seleri"
+    },
+    {
+        "id": 69,
+        "description": "The chili pepper, from Nahuatl chīlli, is the berry-fruit of plants from the genus Capsicum which are members of the nightshade family, Solanaceae. Chili peppers are widely used in many cuisines as a spice to add pungent 'heat' to dishes. ",
+        "engtrans": "/red tʃɪli/",
+        "hausa_name": "barkono barkono",
+        "igbo_name": "Chili uhie",
+        "name": "Red Chili",
+        "yoruba_name": "Bawa"
+    },
+    {
+        "id": 70,
+        "description": "is the berry-fruit of plants from the genus Capsicum which are members of the nightshade family, Solanaceae. Chili peppers are widely used in many cuisines as a spice to add pungent 'heat' to dishes.",
+        "engtrans": "/griːn tʃɪli/",
+        "hausa_name": "koren barkono ",
+        "igbo_name": "akwụkwọ ndụ chili",
+        "name": "Green Chili",
+        "yoruba_name": "Sombo"
+    },
+    {
+        "id": 71,
+        "description": "A tropical perennial American vine, Ipomoea batatas, having a fleshy tuber.\r\nThe tuber of this plant cooked as a vegetable.",
+        "engtrans": "/swit  pəˈteɪ toʊ, -tə /",
+        "hausa_name": "zaki da dankalin turawa",
+        "igbo_name": "ụtọ nduku",
+        "name": "Sweet Potato",
+        "yoruba_name": "ọdunkun, anamo"
+    },
+    {
+        "id": 72,
+        "description": "a large, edible, orange-yellow fruit borne by a coarse, decumbent vine, Cucurbita pepo, of the gourd family.",
+        "engtrans": "/pʌŋ kɪn /",
+        "hausa_name": "kabewa",
+        "igbo_name": "ugu",
+        "name": "Pumpkin",
+        "yoruba_name": "elegede"
+    },
+    {
+        "id": 73,
+        "description": "a cultivated plant, Lactuca sativa, occurring in many varieties and having succulent leaves used for salads.any species of Lactuca",
+        "engtrans": "/ ˈlɛt ɪs /",
+        "hausa_name": "letas",
+        "igbo_name": "letus",
+        "name": "Lettuce",
+        "yoruba_name": "oriṣi ewe"
+    },
+    {
+        "id": 74,
+        "description": "pepper - a pungent, hot-tasting powder prepared from dried and ground peppercorns, commonly used as a spice or condiment to flavor food.",
+        "engtrans": " |ˈpɛpə|  ",
+        "hausa_name": "barkono",
+        "igbo_name": "ose",
+        "name": "Pepper",
+        "yoruba_name": "ata rodo"
+    },
+    {
+        "id": 75,
+        "description": "squash - a state of being squeezed or forced into a small or restricted space",
+        "engtrans": " |skwɒʃ| ",
+        "hausa_name": "squash",
+        "igbo_name": "skwọsh",
+        "name": "Squash",
+        "yoruba_name": "Elegede"
+    },
+    {
+        "id": 76,
+        "description": "yam - the edible starchy tuber of a climbing plant, widely distributed in tropical and subtropical countries",
+        "engtrans": " |jæm| ",
+        "hausa_name": "doya",
+        "igbo_name": "ji",
+        "name": "Yam",
+        "yoruba_name": "iṣu"
+    },
+    {
+        "id": 77,
+        "description": "The Brussels sprout is a member of the Gemmifera Group of cabbages (Brassica oleracea), grown for its edible buds.",
+        "engtrans": " |sprəʊt|",
+        "hausa_name": "brussels ya tsiro",
+        "igbo_name": "brussels na -epulite",
+        "name": "Brussels Sprout",
+        "yoruba_name": "awọn irugbin Brussels"
+    },
+    {
+        "id": 78,
+        "description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant",
+        "engtrans": " |təˈmɑːtəʊ|",
+        "hausa_name": "tumatir",
+        "igbo_name": "Onicha",
+        "name": "Tomato",
+        "yoruba_name": "tomati"
+    },
+    {
+        "id": 79,
+        "description": "The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas, with the plant itself being a perennial in the nightshade family Solanaceae.",
+        "engtrans": " /pəˈteɪ toʊ, -tə /",
+        "hausa_name": "dankalin turawa",
+        "igbo_name": "nduku",
+        "name": "Potato",
+        "yoruba_name": "ọdunkun"
+    },
+    {
+        "id": 80,
+        "description": "The pea is most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum",
+        "engtrans": "\\ˈpē\\",
+        "hausa_name": "wake",
+        "igbo_name": "agwa",
+        "name": "Pea",
+        "yoruba_name": "Ewa"
+    },
+    {
+        "id": 81,
+        "description": "Spinach (Spinacia oleracea) is a leafy green vegetable that originated in Persia. It belongs to the amaranth family and is related to beets and quinoa.",
+        "engtrans": "\\ˈspi-nich\\",
+        "hausa_name": "alayyafo",
+        "igbo_name": "inline",
+        "name": "Spinach",
+        "yoruba_name": "Efo tete"
+    },
+    {
+        "id": 82,
+        "description": "The beetroot is the taproot portion of a beet plant",
+        "engtrans": "\\ˈbēt-ˌrüt\\",
+        "hausa_name": "gwoza/ gwoza",
+        "igbo_name": "beetroot/ Ahịhịa",
+        "name": "Beetroot",
+        "yoruba_name": "ireke."
+    },
+    {
+        "id": 83,
+        "description": "The bell pepper is the fruit of plants in the Grossum cultivar group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, white, and purple.",
+        "engtrans": "|belˈpɛpə| ",
+        "hausa_name": "barkono mai kararrawa",
+        "igbo_name": "ose mgbịrịgba",
+        "name": "Bell Pepper",
+        "yoruba_name": "ata, ataeli"
+    },
+    {
+        "id": 84,
+        "description": "The leek is a vegetable, a cultivar of Allium ampeloprasum, the broadleaf wild leek. The edible part of the plant is a bundle of leaf sheaths that is sometimes erroneously called a stem or stalk",
+        "engtrans": "|liːk| ",
+        "hausa_name": "Ɗigon ruwa",
+        "igbo_name": "liik",
+        "name": "Leek",
+        "yoruba_name": "irugbin ẹfọ"
+    },
+    {
+        "id": 85,
+        "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is a herbaceous perennial which grows annual pseudostems about one meter tall bearing narrow leaf blades",
+        "engtrans": "|ˈdʒɪndʒə| ",
+        "hausa_name": "Chita",
+        "igbo_name": "Jinja.",
+        "name": "Ginger",
+        "yoruba_name": "Atalẹ"
+    }
+]

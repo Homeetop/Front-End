@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>FRUITS AND VEGETABLES- Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+  
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">info@TOPSOFT.com</a>
+        <i class="bi bi-phone-fill phone-icon"></i> +234 8132069992
+      </div>
+      <div class="social-links d-none d-md-block">
+        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo me-auto"><a href="index.html">F&VT</a></h1>
+     
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#translate">Translate</a></li>
+		  <li><a class="nav-link scrollto" href="#team">Team</a></li>
+       
+          <li><a class="getstarted scrollto" href="#translate">Go</a></li>
+		  <li><a class="trigger-btn" data-bs-toggle ="modal"  href ="#myModal"><i class="bi bi-lock-fill" style = "font-size:20px;"></i> Admin</a></li>
+		  </ul>
+					<i class="bi bi-list mobile-nav-toggle"></i>
+		    
+      </nav><!-- .navbar -->
+		
+    </div>
+	<!-- Modal HTML -->
+			<div id="myModal" class="modal fade">
+				<div class="modal-dialog modal-login">
+					<div class="modal-content">
+						<div class="modal-header">
+							<div class="avatar d-flex justify-content-center">
+								<img src="assets/img/avatar.png" alt="Avatar">
+							</div>				
+							<h4 class="modal-title">Admin Login</h4>	
+							
+
+						</div>
+						<div class="modal-body">
+						<div  id ="alert" >
+					
+							</div>
+							<form id ="form" onsubmit ="false" method="post">
+								<div class="form-group" style = "margin-bottom:0px;">
+									<input type="text" class="form-control" id ="username" name="username" placeholder="Username" required="required">		
+								</div>
+								<div class="form-group" style = "margin-top:0px;">
+									<input type="password" class="form-control" id ="password" name="password" placeholder="Password" required="required">	
+								</div>        
+								<div class="form-group">
+									<div class="d-grid gap-2">
+									<button action = "admin.html" type="submit" id = "btn" class="btn btn-success" onclick = "processLogin()">Login</button>
+									</div>
+								</div>
+							</form>
+						</div>
+						<div class="modal-footer d-flex justify-content-center" id="mfooter">
+							<button type="button" class="btn btn-danger" data-bs-dismiss="modal" aria-hidden="true">&times;</button>
+						</div>
+					</div>
+				</div>
+			</div>     
+ 
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-4.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>F&VT</span></h2>
+              <p class="animate__animated animate__fadeInUp">F&VT meaning Food and Vegetables Translator is a class project in CPE 510; Natural Language Processing (NLP)
+			  a 3 unit course, develop by Group 7 member. it is one of the requirements in passing the course. it a web app that takes the name of any fruit or vegetables
+			  and translate it to any nigeria language of choice.</p>
+              <a href="#translate" class="btn-get-started animate__animated animate__fadeInUp scrollto">Go</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Guide</h2>
+              <p class="animate__animated animate__fadeInUp">Using F&VT is very easy, to get started all you need to do
+			  is to click go and it will take you to a section where you can search for any fruits or vegetables of yours for translation
+			  to any nigeria language of your choice. for now there are only three common nigeria language</p>
+              <a href="#translate" class="btn-get-started animate__animated animate__fadeInUp scrollto">Go</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">About Team</h2>
+              <p class="animate__animated animate__fadeInUp">The team is made up of 9 members, part V computer Engineering department, Obafemi Awolowo University.
+			  The team include Omiwole Temitope, Afolabi Mathew, Olorunmola Ayooluwa, Bamigbose Damilola, Isedu Destiny and many more. for more details click read more</p>
+              <a href="#team" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+
+    <!-- ======= Project Section ======= -->
+    <section id="translate" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Translate Fruits and Vegetable</h2>
+          <p>input any fruits and vegetable of your choice in english it will be automatically translated to the three common nigeria language </p>
+        </div>
+
+        <div class="row" id ="searchbox">
+			<div class="col-xs-10 col-xs-offset-1">
+				<form  method="get" action ="#translate" role="search">
+					<div class="input-group">
+						<input class="form-control" placeholder="Input. . ." name="srch-term" id="ed-srch-term" type="text">
+							<div class="input-group-btn">
+								<button type="button" id="searchbtn" onclick = "loadFile()">Trans</button>	
+							</div>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class= "row d-flex justify-content-center" id = "data">
+	
+		</div>
+      </div>
+    </section><!-- End Project Section -->
+	
+	
+   
+
+    
+    
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-1.jpeg" alt="">
+              <h4>Omiwole Temitope</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-2.jpeg" alt="">
+              <h4>Bamigbose Damilola</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-3.jpeg" alt="">
+              <h4>Afolabi Matthew</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+          
+		  
+		   <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-4.jpeg" alt="">
+              <h4>Chief Security Analyst Akinlawon</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+          
+		  
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-5.JPG" alt="">
+              <h4>Olorunmola Ayooluwa</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-6.JPG" alt="">
+              <h4>Oyeyemi Ayoola</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-7.jpeg" alt="">
+              <h4>Isedu Destiny</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+          
+		  
+		   <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/Team-8.jpeg" alt="">
+              <h4>Bamidele Dolapo</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+			
+			<div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/anon.JPG" alt="">
+              <h4>Olawale Abiola</h4>
+              <span>Team Member</span>
+             
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            </div>
+          </div>
+		</div>
+		</div>
+	
+		
+    </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+  
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <h3>F&VT</h3>
+      <p>Fruit and Vegetable translator is a great project which has allow us to grow as a team.</p>
+      <div class="social-links">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+      <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">CPE 510 GROUP 7 MEMBERS</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  
+
+  <!-- Template Main JS File -->
+   <script src="assets/js/process.js"></script>
+  <script src="assets/js/main.js"></script>
+
+
+</body>
+
+</html>
